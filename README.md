@@ -18,7 +18,7 @@ Unlike many retinal vessel segmentation approaches that rely on deep neural netw
 
 The implementation emphasizes **algorithmic understanding**, **reproducibility**, and **from-scratch implementation** of fundamental image processing techniques instead of relying on high-level morphology libraries.
 
-The complete segmentation pipeline was developed in **Spring 2025** during the **Advanced Digital Image Processing** course at **Shiraz University** and has subsequently been refactored into a modular research repository following modern software engineering and reproducible research practices.
+The complete segmentation pipeline was developed in **Spring 2025** and has subsequently been refactored into a modular research repository following modern software engineering and reproducible research practices.
 
 ---
 
@@ -367,14 +367,6 @@ If you use this repository for research or education, please consider citing:
   url     = {https://github.com/hannah-fathi/retinal-vessel-segmentation-using-mathematical-morphology}
 }
 ```
-
----
-
-# Acknowledgements
-
-This project was originally developed during **Spring 2025** as part of the **Advanced Digital Image Processing** course at **Shiraz University**.
-
-The original coursework has been substantially refactored into a research-oriented implementation emphasizing reproducibility, modular software architecture, and interpretable biomedical image analysis.
 
 ---
 
