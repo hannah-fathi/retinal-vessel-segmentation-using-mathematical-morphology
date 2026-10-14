@@ -391,19 +391,8 @@ This project is released under the **MIT License**.
 
 ---
 
-# Author
-
-**Hannah Fathi**
-
 **Spring 2025** 
 
-### Research Interests
+## Author
 
-* Computer Vision
-* Medical AI
-* Medical Image Analysis
-* Biomedical Computer Vision
-* Remote Sensing
-* Explainable AI
-* Deep Learning
-* Image Processing
+**Hannah Fathi** : Computer Vision · Medical AI · Representation Learning · Explainable AI · Foundation Models
